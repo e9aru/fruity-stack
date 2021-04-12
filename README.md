@@ -1,5 +1,5 @@
 # Fruity stack
-Another html5 game
+Match 3 html5 puzzle game
 
 
 ### Start
